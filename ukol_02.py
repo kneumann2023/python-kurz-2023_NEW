@@ -37,4 +37,4 @@ else:
             pocet_skladem_novy = (sklad[kod] - mnozstvi)
             sklad[kod] = pocet_skladem_novy   
             print(f"Skladem zbývá {pocet_skladem_novy} kusů.")
-            print(sklad)
+            print(sklad) # kontrola
